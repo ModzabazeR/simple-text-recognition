@@ -11,6 +11,7 @@ pip install opencv-python
 Download pytesseract at [this reposity](https://github.com/UB-Mannheim/tesseract/wiki)
 
 ## Screenshots
-- to be insert
+![image](https://user-images.githubusercontent.com/46133542/133886017-756168ba-d0a5-4a4d-a234-6f81a88899af.png)
+
 
 **Note**: This program should be run once per one function.
